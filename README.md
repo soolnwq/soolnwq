@@ -1,7 +1,5 @@
 
 
-###
-
 <h3 align="left">🛠 Language and tools</h3>
 
 <div align="left">
@@ -23,6 +21,4 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
 </div>
-
-###
 
